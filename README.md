@@ -3,21 +3,21 @@
 <!--
 **Vova-Herdman/Vova-Herdman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:  -->
 
 - 🔭 I’m currently working on ...
-      My college education!
+  - My college education!
 - 🌱 I’m currently learning ...
-      Computer Science, Data Analytics, and Philosophy
+  - Computer Science, Data Analytics, and Philosophy
 - 👯 I’m looking to collaborate on ...
-      Anything I can learn from!
+  - Anything I can learn from!
 - 🤔 I’m looking for help with ...
-      Most ideas in computer science
+  - Most ideas in computer science
 - 💬 Ask me about ...
-      Rock climbing
+  - Rock climbing
 - 📫 How to reach me: ...
-      I've linked my Twitter on my GitHub profile
+  - I've linked my Twitter on my GitHub profile
 - 😄 Pronouns: ...
-      I'm a guy!
+  - I'm a guy!
 - ⚡ Fun fact: ...
-      I run Cross-Country and Track in College
+  - I run Cross-Country and Track in College
