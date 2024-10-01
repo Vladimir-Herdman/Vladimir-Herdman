@@ -1,23 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Vladimir!
 
-<!--
-**Vova-Herdman/Vova-Herdman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science major at [Ohio Northern University](https://www.onu.edu/").
 
-Here are some ideas to get you started:  -->
+I put here any projects I've worked on, the ones I'm especially proud of are my Python
+[QR Code Generator](https://github.com/Vladimir-Herdman/QR-Code-Generator-Gui) and my
+[Canvas Grades Getter](https://github.com/Vladimir-Herdman/Canvas_Grade_Getter), but that's mostly
+because I use them the most for some personal club activites, so check out my repositories
+for all the ones I'm working on.
 
-- 🔭 I’m currently working on ...
-  - My college education!
-- 🌱 I’m currently learning ...
-  - Computer Science, Data Analytics, and Philosophy
-- 👯 I’m looking to collaborate on ...
-  - Anything I can learn from!
-- 🤔 I’m looking for help with ...
-  - Most ideas in computer science
-- 💬 Ask me about ...
-  - Rock climbing
-- 📫 How to reach me: ...
-  - I've linked my Twitter on my GitHub profile
-- 😄 Pronouns: ...
-  - I'm a guy!
-- ⚡ Fun fact: ...
-  - I run Cross-Country and Track in College
+I'm always looking to learn more, so if you have any tips for me, or see something I could
+improve in one of my projects, send me a message at vovaherdman@gmail.com, or leave an issue
+message directly on the repository.
+
+I also run Cross Country and Track in my free time, so come run sometime!
