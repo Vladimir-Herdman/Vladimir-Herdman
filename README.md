@@ -2,9 +2,9 @@
 
 I'm a Computer Science major at [Ohio Northern University](https://www.onu.edu/").
 
-I put here any projects I've worked on, the ones I'm especially proud of are my Python
-[CLI tool](https://github.com/Vladimir-Herdman/Pace-Calculator) and my
-[QR Code Generator](https://github.com/Vladimir-Herdman/QR-Code-Generator-Gui), but that's mostly
+I put here any projects I've worked on, the ones I'm especially proud of would be my current
+[terminal chess](https://github.com/Vladimir-Herdman/terminal-chess) project and my
+[QR Code Generator](https://github.com/Vladimir-Herdman/QR-Code-Generator-Gui) wrapper, but that's mostly
 because I use them for some personal sports and club activities, so check out my page and full
 repositories list to see what else I've worked on.
 
